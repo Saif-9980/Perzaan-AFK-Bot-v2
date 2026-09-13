@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "donuttsmppp.aternos.me
-",
+    "ip": "donuttsmppp.aternos.me",
     "port": 19634,
     "version": "1.21.1"
   },
