@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bloodypvp.aternos.me",
-    "port": 21697,
+    "ip": "4o4t.falixsrv.me",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "artraxx"
     },
     "anti-afk": {
       "enabled": true,
